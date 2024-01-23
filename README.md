@@ -1,2 +1,2 @@
-# cuddly-octo-enigma
+# MiniProjects
 The place where mini projects go.
